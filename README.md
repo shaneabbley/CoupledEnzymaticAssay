@@ -1,1 +1,2 @@
 # CoupledEnzymaticAssay
+This repository represents a coupled enzymatic assay experiment I performed a while back. The focus was on the understanding of enzymatic assays and how coupling them (glucose and peroidase) could result in a compound measureable by our spectrophotometer. This experiment was mostly self guided and it is always amazing to note, how many improvements can be made after the first attempt.
